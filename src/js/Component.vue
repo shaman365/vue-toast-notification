@@ -169,7 +169,8 @@
           case Positions.TOP_LEFT:
             return {
               enter: 'v-toast--fade-in-down',
-              leave: 'v-toast--fade-out'
+              // leave: 'v-toast--fade-out'
+              leave: 'v-toast--fade-in-up'
             };
 
           case Positions.BOTTOM:
@@ -177,7 +178,8 @@
           case Positions.BOTTOM_LEFT:
             return {
               enter: 'v-toast--fade-in-up',
-              leave: 'v-toast--fade-out'
+              // leave: 'v-toast--fade-out'
+              leave: 'v-toast--fade-in-down'
             }
         }
       },
