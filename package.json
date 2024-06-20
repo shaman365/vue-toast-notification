@@ -1,6 +1,6 @@
 {
   "name": "vue-toast-notification",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue.js toast notification plugin",
   "main": "dist/index.js",
   "types": "./types/toast.d.ts",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankurk91/vue-toast-notification.git"
+    "url": "git+https://github.com/shaman365/vue-toast-notification.git"
   },
   "keywords": [
     "vue",
@@ -24,7 +24,7 @@
   "author": "ankurk91",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ankurk91/vue-toast-notification/issues"
+    "url": "https://github.com/shaman365/vue-toast-notification/issues"
   },
   "homepage": "https://github.com/ankurk91/vue-toast-notification",
   "scripts": {
